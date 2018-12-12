@@ -16,30 +16,34 @@ date_format = "January 2006"
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+#   Leave `date_end` empty if its your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "Software Engineer"
+  company = "WPI"
+  company_url = "https://github.com/wpilibsuite"
+  location = "Worcester"
+  date_start = "2018-05-01"
+  date_end = "2018-08-01"
+  description = """Developing libraries for high school robotics teams, has 1000+ views a month"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Robotics Institute Summer Scholar"
+  company = "CMU"
+  company_url = "https://riss.ri.cmu.edu/"
+  location = "Pittsburgh"
+  date_start = "2017-05-01"
+  date_end = "2017-08-01"
+  description = """Worked as junior researcher in Human Sensing Lab
+   working on machine learning techniques for detecting tremors in IMU data"""
+
+[[experience]]
+  title = "Robotics Institute Summer Scholar"
+  company = "CMU"
+  company_url = "https://riss.ri.cmu.edu/"
+  location = "Pittsburgh"
+  date_start = "2016-05-01"
+  date_end = "2016-08-01"
+  description = """Worked as junior researcher in Field Robotics Center"""
 
 +++
