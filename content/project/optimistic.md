@@ -1,5 +1,7 @@
++++
 title = "Team Optimistic"
 draft = false
+date = 2018-09-29T15:32:15-06:00
 weight=20
  # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -13,10 +15,10 @@ external_link = "https://github.com/Team-Optimistic"
  # Does the project detail page use math formatting?
 math = false
  # Does the project detail page use source code highlighting?
-highlight = true
+highlight = false
  # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = ""
 caption = ""
- +++
++++
